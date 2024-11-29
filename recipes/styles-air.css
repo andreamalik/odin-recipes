@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul,ol{
+    list-style-position: inside;
+}
+.heading{
+    background-color: lightpink;
+    color:blue;
+    text-align: center;
+}
+div{
+    vertical-align: middle;
+    text-align: center;
+}
+#serving{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
